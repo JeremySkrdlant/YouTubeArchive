@@ -12,6 +12,12 @@ The focus of our program has moved away from game development but there is still
 * Vectors in Unity (2018 3 Videos) - https://youtube.com/playlist?list=PLoxrphoL-WU3JUZMo5aKet1b7v3rFxfNk&si=mgqu8cyiPOcisTe_
 * Triggering Sound in Unity (2018 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU2x6RlF1fA3eI2-YnqNlGtK
 
+## Blender 
+Play around with some 3D Modeling 
+
+* Basics of moving around and creating stuff (2019 7 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU3qlMMqHVQX2qTRm0p2vHM6
+* Creating UV Maps (2015 6 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1C-C6lC2V7YRXTJtEo8T1G 
+
 ## Blockchain 
 This section will focus mostly on smart contracts in Solidity 
 
@@ -30,5 +36,11 @@ Note that some of these videos are before the preview changed at the bottom.  It
 * SwiftUI Navigation (2020 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU0unh4i84zIn9DuegSd1G2N
 * SwiftUI Mad Libs with String Concatenation (2020 3 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU3PQDpbOlwWuky5oa53SMY6
 * Core Data SwiftUI - NOTE this has been changed with the new Swift Data but it is still the only option for storyboards. (8 Videos 2020) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1sLMYFE6uXOs1_TSEu5hjJ
+* Working with Sound in SwiftUI (2020 4 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU0sqCkuGM0bdkNQWQM74kOo 
 
+## Objective C 
+This will give you a perspective on how good the Swift Programmers have it now. 
+
+* Dice Roller with Objective C (2012 7 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1kF4hHT_BptwTNxKVRCfKl
+* Objective C Dump (2012 63 Videos) - https://youtube.com/playlist?list=PLoxrphoL-WU2nT9mVsyRAYRJVuV2jWusI&si=4kDpbxkJRk1WlLbP
   
