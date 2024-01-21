@@ -1,5 +1,5 @@
 # YouTubeArchive
-This is an archive of older YouTube videos that we used to use for training.  The goal is to have a place for alumni to gain access to changes in the materials.  
+This is an archive of older YouTube videos that we used to use for training. This is a live document so check back every once in a while for new stuff.  I have over 2,500 videos to go through. The goal is to have a place for alumni to gain access to changes in the materials.  
 
 Global Game Jam coming up January 26th!!
 
