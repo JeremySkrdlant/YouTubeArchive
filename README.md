@@ -1,4 +1,4 @@
-# YouTubeArchive
+# Mr Skrdlant's YouTube Archive
 This is an archive of older YouTube videos that we used to use for training. This is a live document so check back every once in a while for new stuff.  I have over 2,500 videos to go through. The goal is to have a place for alumni to gain access to changes in the materials.  
 
 Global Game Jam coming up January 26th!!
@@ -42,7 +42,7 @@ Note that some of these videos are before the preview changed at the bottom.  It
 ## Swift Playgrounds
 
 * Emoji Hash, overview of the general idea of what a hash is.  Not a Secure hash whatsoever! (2023 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1VK5HJA-eYFgvAINLyH6vB
-* Let's Build a Tao, overview of Composition in Swift (2019 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1z157Tb6Hb3Fc0Cs_6Xavo
+* Let's Build a Tao, overview of Composition in Swift (2019 5 Videos, Zip File Above) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1z157Tb6Hb3Fc0Cs_6Xavo
 
 ## Storyboards 
 
