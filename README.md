@@ -22,6 +22,7 @@ Play around with some 3D Modeling
 This section will focus mostly on smart contracts in Solidity 
 
 * Album Release (2023 6 Videos) - https://youtube.com/playlist?list=PLoxrphoL-WU3Nst7saZAGwav7Mh2nxsLg&si=g9_M6KO-AnSHT4D3
+* Sign in With Metamask on Angular 17 with Ethers 6 (2024 6 Videos) - https://youtube.com/playlist?list=PLoxrphoL-WU0L-dKwayIHndPt_UU7SDTo&si=w16SH-2YJb0Fg6EB
 
 ## Arduino
 
@@ -36,11 +37,26 @@ Note that some of these videos are before the preview changed at the bottom.  It
 * SwiftUI Navigation (2020 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU0unh4i84zIn9DuegSd1G2N
 * SwiftUI Mad Libs with String Concatenation (2020 3 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU3PQDpbOlwWuky5oa53SMY6
 * Core Data SwiftUI - NOTE this has been changed with the new Swift Data but it is still the only option for storyboards. (8 Videos 2020) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1sLMYFE6uXOs1_TSEu5hjJ
-* Working with Sound in SwiftUI (2020 4 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU0sqCkuGM0bdkNQWQM74kOo 
+* Working with Sound in SwiftUI (2020 4 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU0sqCkuGM0bdkNQWQM74kOo
+
+## Swift Playgrounds
+
+* Emoji Hash, overview of the general idea of what a hash is.  Not a Secure hash whatsoever! (2023 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1VK5HJA-eYFgvAINLyH6vB
+* Let's Build a Tao, overview of Composition in Swift (2019 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1z157Tb6Hb3Fc0Cs_6Xavo
+
+## Storyboards 
+
+* Passing Data between View Controllers (2022 3 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU3J09Z16G8Ejd_4voMrtdl0
 
 ## Objective C 
 This will give you a perspective on how good the Swift Programmers have it now. 
 
 * Dice Roller with Objective C (2012 7 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1kF4hHT_BptwTNxKVRCfKl
 * Objective C Dump (2012 63 Videos) - https://youtube.com/playlist?list=PLoxrphoL-WU2nT9mVsyRAYRJVuV2jWusI&si=4kDpbxkJRk1WlLbP
+
+## Angular 
+
+* Intro to Angular (2022 9 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU2Lj7CCK-xF8dDUJrh0Yfp1
+* Assetts in Angular (2023 4 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1umbkC93cIQFKab0S5jLny
+* Angular Email Clone (2023 5 Videos ) - https://www.youtube.com/playlist?list=PLoxrphoL-WU3aR9CrgO5gLNlAccFxxqLg
   
