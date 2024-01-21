@@ -20,5 +20,15 @@ This section will focus mostly on smart contracts in Solidity
 ## Arduino
 
 * Projects in Arduino (2014 - 2020 26 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU16oGEIQVvDUBg48OQMxQzP
+* Mighty Truck Challenges - Example of some projects you can have students do with a $10 remote control car, an Arduino, 4 optocouplers, and a few wires. I am really proud of my parrallel parking! (2014 - 4 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU2IQf9ZxE_ZErUlKEjWFgIi
+
+## SwiftUI 
+Note that some of these videos are before the preview changed at the bottom.  It used to be a lot more complex to create a preview. Keep the preview code you have at the bottom of your SwiftUI Views. 
+
+* Intro to SwiftUI with a time calculation app (2020 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU3V8iqxTNoZYZ-4NypCuKrk
+* Fake Weather with SwiftUI Composition of Views (2020 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU2kOuspmSxpkD-_qW_8epVP
+* SwiftUI Navigation (2020 5 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU0unh4i84zIn9DuegSd1G2N
+* SwiftUI Mad Libs with String Concatenation (2020 3 Videos) - https://www.youtube.com/playlist?list=PLoxrphoL-WU3PQDpbOlwWuky5oa53SMY6
+* Core Data SwiftUI - NOTE this has been changed with the new Swift Data but it is still the only option for storyboards. (8 Videos 2020) - https://www.youtube.com/playlist?list=PLoxrphoL-WU1sLMYFE6uXOs1_TSEu5hjJ
 
   
